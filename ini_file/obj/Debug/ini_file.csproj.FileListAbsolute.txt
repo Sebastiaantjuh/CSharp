@@ -1,0 +1,10 @@
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\ini_file\bin\Debug\ini_file.exe.config
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\ini_file\bin\Debug\ini_file.exe
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\ini_file\bin\Debug\ini_file.pdb
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\ini_file\obj\Debug\ini_file.csprojAssemblyReference.cache
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\ini_file\obj\Debug\ini_file.Form1.resources
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\ini_file\obj\Debug\ini_file.Properties.Resources.resources
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\ini_file\obj\Debug\ini_file.csproj.GenerateResource.cache
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\ini_file\obj\Debug\ini_file.csproj.CoreCompileInputs.cache
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\ini_file\obj\Debug\ini_file.exe
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\ini_file\obj\Debug\ini_file.pdb

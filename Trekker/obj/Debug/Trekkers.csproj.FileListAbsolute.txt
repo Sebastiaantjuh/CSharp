@@ -1,0 +1,10 @@
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\Object_array\Trekker\Trekkers\bin\Debug\Trekkers.exe.config
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\Object_array\Trekker\Trekkers\bin\Debug\Trekkers.exe
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\Object_array\Trekker\Trekkers\bin\Debug\Trekkers.pdb
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\Object_array\Trekker\Trekkers\obj\Debug\Trekkers.csprojAssemblyReference.cache
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\Object_array\Trekker\Trekkers\obj\Debug\Trekkers.Form1.resources
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\Object_array\Trekker\Trekkers\obj\Debug\Trekkers.Properties.Resources.resources
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\Object_array\Trekker\Trekkers\obj\Debug\Trekkers.csproj.GenerateResource.cache
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\Object_array\Trekker\Trekkers\obj\Debug\Trekkers.csproj.CoreCompileInputs.cache
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\Object_array\Trekker\Trekkers\obj\Debug\Trekkers.exe
+C:\Users\Sebastiaan\Documents\School\Leerjaar 3\C#\Object_array\Trekker\Trekkers\obj\Debug\Trekkers.pdb
